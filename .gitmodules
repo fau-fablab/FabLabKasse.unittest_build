@@ -1,0 +1,4 @@
+[submodule "FabLabKasse"]
+	path = FabLabKasse
+	url = git@github.com:fau-fablab/FabLabKasse.git
+	branch = development
